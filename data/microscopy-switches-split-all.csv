@@ -1,0 +1,608 @@
+id,method,model,config,chunk,variable,value
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,0.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,1,count,0.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,2,count,3.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,3,count,0.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,4,count,4.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,5,count,5.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,6,count,26.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,7,count,11.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,8,count,1.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,9,count,40.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,10,count,3.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,10,count,2.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,9,count,6.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,8,count,24.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,7,count,14.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,6,count,0.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,2,count,2.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,4,count,2.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,3,count,2.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,1,count,0.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,0.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,5,count,7.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,7,count,6.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,10,count,0.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,9,count,5.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,8,count,3.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,6,count,14.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,0.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,4,count,7.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,3,count,10.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,2,count,3.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,1,count,0.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,5,count,12.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,10,count,0.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,9,count,2.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,8,count,4.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,7,count,10.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,6,count,9.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,3,count,5.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,4,count,18.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,2,count,5.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,1,count,2.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,3.0
+Mouse C2C12 - Phase Contrast,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,5,count,3.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,0,count,0.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,1,count,0.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,2,count,2.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,3,count,0.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,4,count,1.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,5,count,4.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,6,count,5.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,7,count,15.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,8,count,0.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,9,count,1.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,10,count,0.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,0,count,0.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,1,count,0.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,2,count,0.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,3,count,1.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,4,count,1.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,5,count,3.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,6,count,0.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,7,count,7.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,8,count,1.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,9,count,4.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,10,count,1.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,0,count,0.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,1,count,0.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,2,count,1.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,3,count,1.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,4,count,2.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,5,count,2.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,6,count,4.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,7,count,11.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,8,count,0.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,9,count,4.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,10,count,4.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,0,count,0.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,1,count,0.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,2,count,0.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,3,count,1.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,4,count,3.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,5,count,0.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,6,count,1.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,7,count,2.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,8,count,0.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,9,count,1.0
+Mouse C2C12 - Phase Contrast,Trackastra,pretrained - 'general_2d',,10,count,0.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,2.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,1,count,10.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,2,count,12.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,3,count,15.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,4,count,37.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,5,count,106.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,6,count,174.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,7,count,181.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,8,count,428.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,9,count,242.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,10,count,45.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,10,count,0.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,9,count,6.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,8,count,6.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,7,count,6.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,6,count,7.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,2,count,0.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,4,count,0.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,3,count,0.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,1,count,0.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,0.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,5,count,0.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,7,count,66.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,10,count,8.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,9,count,30.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,8,count,17.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,6,count,22.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,3,count,2.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,4,count,30.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,2,count,3.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,1,count,0.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,0.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,5,count,17.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,10,count,0.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,9,count,4.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,8,count,2.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,7,count,19.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,5,count,18.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,6,count,15.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,3,count,7.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,2,count,0.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,1,count,0.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,0.0
+Mouse C2C12 - Phase Contrast,Trackmate,Mask Detector + Advanced Kalman Tracker,,4,count,9.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,18,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,17,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,11,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,16,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,15,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,14,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,13,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,12,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,10,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,1,count,5.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,8,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,7,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,6,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,5,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,4,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,3,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,2,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,9,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,10,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,11,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,9,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,14,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,15,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,12,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,8,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,13,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,6,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,5,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,4,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,3,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,2,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,7,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,1,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,12,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,13,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,14,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,18,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,16,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,17,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,11,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,15,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,10,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,9,count,2.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,8,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,1,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,2,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,3,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,5,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,6,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,7,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,4,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,10,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,17,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,16,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,15,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,14,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,13,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,12,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,11,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,9,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,7,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,6,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,5,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,4,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,3,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,2,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,1,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,8,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,11,count,4.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,12,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,13,count,4.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,14,count,17.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,18,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,16,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,17,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,19,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,15,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,10,count,2.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,8,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,7,count,2.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,6,count,5.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,5,count,13.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,4,count,3.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,3,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,2,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,1,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,9,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,11,count,17.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,10,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,9,count,41.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,8,count,12.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,7,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,6,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,5,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,4,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,3,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,2,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,1,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,16,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,15,count,5.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,14,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,13,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,17,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,12,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,11,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,10,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,9,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,4,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,7,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,6,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,5,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,3,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,2,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,1,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,0.0
+MOTChallenge - DIC,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,8,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,0,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,1,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,2,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,3,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,4,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,5,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,6,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,7,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,8,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,9,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,10,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,11,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,12,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,13,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,14,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,15,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,16,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,17,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,18,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,0,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,1,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,2,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,3,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,4,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,5,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,6,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,7,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,8,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,9,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,10,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,11,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,12,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,13,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,14,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,15,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,0,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,1,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,2,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,3,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,4,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,5,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,6,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,7,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,8,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,9,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,10,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,11,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,12,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,13,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,14,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,15,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,16,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,17,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,18,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,0,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,1,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,2,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,3,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,4,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,5,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,6,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,7,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,8,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,9,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,10,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,11,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,12,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,13,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,14,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,15,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,16,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,17,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,0,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,1,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,2,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,3,count,2.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,4,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,5,count,2.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,6,count,1.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,7,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,8,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,9,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,10,count,3.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,11,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,12,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,13,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,14,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,15,count,1.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,16,count,5.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,17,count,2.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,18,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,19,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,0,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,1,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,2,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,3,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,4,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,5,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,6,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,7,count,1.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,8,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,9,count,2.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,10,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,11,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,0,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,1,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,2,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,3,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,4,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,5,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,6,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,7,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,8,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,9,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,10,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,11,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,12,count,4.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,13,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,14,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,15,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,16,count,0.0
+MOTChallenge - DIC,Trackastra,pretrained - 'general_2d',,17,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,18,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,17,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,16,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,15,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,14,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,13,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,12,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,11,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,10,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,8,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,7,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,6,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,5,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,4,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,3,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,2,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,1,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,9,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,11,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,10,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,12,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,9,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,14,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,15,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,13,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,8,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,1,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,6,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,5,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,4,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,3,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,2,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,7,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,18,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,17,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,16,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,15,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,14,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,13,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,12,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,11,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,9,count,2.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,10,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,7,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,6,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,5,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,4,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,3,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,2,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,1,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,8,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,11,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,12,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,13,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,10,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,15,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,16,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,17,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,14,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,9,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,7,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,6,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,5,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,4,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,3,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,2,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,1,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,8,count,1.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,12,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,13,count,3.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,14,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,15,count,1.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,18,count,1.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,19,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,17,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,11,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,16,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,10,count,4.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,2,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,8,count,1.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,7,count,1.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,6,count,1.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,5,count,2.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,4,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,3,count,2.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,1,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,9,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,11,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,9,count,4.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,8,count,4.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,7,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,6,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,10,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,4,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,3,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,2,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,1,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,5,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,15,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,14,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,13,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,12,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,11,count,1.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,10,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,9,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,8,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,5,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,6,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,4,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,3,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,2,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,1,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,16,count,0.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,7,count,1.0
+MOTChallenge - DIC,Trackmate,Mask Detector + Advanced Kalman Tracker,,17,count,0.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,4,count,7.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,2,count,9.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,3,count,4.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,7.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,1,count,1.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,15.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,1,count,3.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,0.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,1,count,0.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,2,count,0.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,2,count,0.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,0.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,1,count,0.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,0.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,1,count,3.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,4,count,9.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,2,count,7.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,3,count,10.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,5.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,1,count,10.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,3,count,0.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,2,count,4.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,4,count,0.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,6.0
+Lysosomes - Airyscan Confocal,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,1,count,3.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,0,count,6.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,1,count,3.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,2,count,11.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,3,count,13.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,4,count,5.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,0,count,6.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,1,count,9.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,0,count,0.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,1,count,0.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,2,count,0.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,0,count,0.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,1,count,0.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,2,count,0.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,0,count,4.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,1,count,13.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,2,count,2.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,3,count,15.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,4,count,3.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,0,count,9.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,1,count,3.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,2,count,2.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,3,count,7.0
+Lysosomes - Airyscan Confocal,Trackastra,pretrained - 'general_2d',,4,count,1.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,29.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,1,count,15.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,2,count,42.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,3,count,34.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,4,count,25.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,1,count,1.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,15.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,1,count,0.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,2,count,0.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,0.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,2.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,1,count,2.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,2,count,0.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,0.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,1,count,0.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,10.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,1,count,35.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,2,count,48.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,3,count,59.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,4,count,30.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,2,count,8.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,4,count,2.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,3,count,7.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,9.0
+Lysosomes - Airyscan Confocal,Trackmate,Mask Detector + Advanced Kalman Tracker,,1,count,5.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,3.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,0.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,63.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,366.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,7.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,5.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,1.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,34.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,23.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,14.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,556.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,DREEM,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/models/microscopy-public/large-run-fixed-data-extra-phase-contrast-20250514-cliplen=32/epoch=32-final-val_loss=4.099276542663574.ckpt,/root/vast/mustafa/dreem-experiments/run/microscopy-public/leaveout-airyscan/results-fixed-data-extra-phase-contrast-20250515-maxgap-maxcenter-tuned/config-log,0,count,148.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackastra,pretrained - 'general_2d',,0,count,14.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackastra,pretrained - 'general_2d',,0,count,29.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackastra,pretrained - 'general_2d',,0,count,244.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackastra,pretrained - 'general_2d',,0,count,1088.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackastra,pretrained - 'general_2d',,0,count,62.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackastra,pretrained - 'general_2d',,0,count,6.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackastra,pretrained - 'general_2d',,0,count,13.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackastra,pretrained - 'general_2d',,0,count,3.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackastra,pretrained - 'general_2d',,0,count,3.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackastra,pretrained - 'general_2d',,0,count,6.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackastra,pretrained - 'general_2d',,0,count,2884.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackastra,pretrained - 'general_2d',,0,count,598.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,9.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,142.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,1369.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,12.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,17.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,2.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,4.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,0.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,4.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,3.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,2701.0
+DynamicNuclearNet (cell nuclei) - Fluorescence,Trackmate,Mask Detector + Advanced Kalman Tracker,,0,count,670.0
