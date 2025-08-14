@@ -1,0 +1,7 @@
+file,num_instances,num_frames,time_taken,fps
+/root/vast/mustafa/animal-data/zebrafish/test/train_labels.group1.centroids_sample_1_17032_18532.slp,10,1500,330.445191860199,4.5393306876578885
+/root/vast/mustafa/animal-data/zebrafish/test/train_labels.group1.centroids_sample_1_6952_8452.slp,10,1500,333.5698845386505,4.496808823358261
+/root/vast/mustafa/animal-data/zebrafish/test/train_labels.group2.centroids_sample_0_16148_17648.slp,10,1500,314.72104716300964,4.766125473721735
+/root/vast/mustafa/animal-data/zebrafish/test/train_labels.group2.centroids_sample_0_6738_8238.slp,10,1500,326.73939394950867,4.590814660786806
+/root/vast/mustafa/animal-data/zebrafish/test/val_labels.group3.centroids_sample_2_16736_18236.slp,10,1500,329.4660050868988,4.552821768681007
+/root/vast/mustafa/animal-data/zebrafish/test/val_labels.group3.centroids_sample_2_7027_8527.slp,10,1500,321.59204840660095,4.664294429641784

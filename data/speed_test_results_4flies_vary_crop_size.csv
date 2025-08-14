@@ -1,0 +1,9 @@
+file,num_instances,num_frames,crop_size,time_taken,fps
+/root/vast/mustafa/animal-data/flies13/four_flies/test/four_flies@1000-11000_sample_0_3465_4965.slp,4,1500,32,53.751994609832764,27.905941182052572
+/root/vast/mustafa/animal-data/flies13/four_flies/test/four_flies@1000-11000_sample_0_3465_4965.slp,4,1500,64,54.96142268180847,27.29186994820061
+/root/vast/mustafa/animal-data/flies13/four_flies/test/four_flies@1000-11000_sample_0_3465_4965.slp,4,1500,128,55.798133850097656,26.88261948024584
+/root/vast/mustafa/animal-data/flies13/four_flies/test/four_flies@1000-11000_sample_0_3465_4965.slp,4,1500,256,59.01609420776367,25.41679553918484
+/root/vast/mustafa/animal-data/flies13/four_flies/test/four_flies@1000-11000_sample_0_8397_9897.slp,4,1500,32,56.08992052078247,26.74277278471484
+/root/vast/mustafa/animal-data/flies13/four_flies/test/four_flies@1000-11000_sample_0_8397_9897.slp,4,1500,64,54.86344051361084,27.340611269682793
+/root/vast/mustafa/animal-data/flies13/four_flies/test/four_flies@1000-11000_sample_0_8397_9897.slp,4,1500,128,55.08317947387695,27.231543537013344
+/root/vast/mustafa/animal-data/flies13/four_flies/test/four_flies@1000-11000_sample_0_8397_9897.slp,4,1500,256,58.30706310272217,25.72587127836267

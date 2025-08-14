@@ -1,0 +1,13 @@
+file,num_instances,num_frames,time_taken,fps
+/root/vast/mustafa/public-data/DynamicNuclearNet-tracking-v1_0/test/test_0.slp,33,42,5.3001015186309814,7.92437651474431
+/root/vast/mustafa/public-data/DynamicNuclearNet-tracking-v1_0/test/test_1.slp,29,42,5.121544599533081,8.200651030907558
+/root/vast/mustafa/public-data/DynamicNuclearNet-tracking-v1_0/test/test_2.slp,65,42,9.592305183410645,4.378509565420901
+/root/vast/mustafa/public-data/DynamicNuclearNet-tracking-v1_0/test/test_3.slp,18,42,2.924940347671509,14.359267201273157
+/root/vast/mustafa/public-data/DynamicNuclearNet-tracking-v1_0/test/test_4.slp,22,42,3.540431022644043,11.862962371353818
+/root/vast/mustafa/public-data/DynamicNuclearNet-tracking-v1_0/test/test_5.slp,14,50,3.0708048343658447,16.28237634656634
+/root/vast/mustafa/public-data/DynamicNuclearNet-tracking-v1_0/test/test_6.slp,7,50,2.085815191268921,23.971443016282826
+/root/vast/mustafa/public-data/DynamicNuclearNet-tracking-v1_0/test/test_7.slp,107,71,23.774019718170166,2.986453315075517
+/root/vast/mustafa/public-data/DynamicNuclearNet-tracking-v1_0/test/test_8.slp,244,71,67.93677639961243,1.0450893280889473
+/root/vast/mustafa/public-data/DynamicNuclearNet-tracking-v1_0/test/test_9.slp,225,65,42.55841016769409,1.527312691989167
+/root/vast/mustafa/public-data/DynamicNuclearNet-tracking-v1_0/test/test_10.slp,120,45,19.69963812828064,2.284305920086845
+/root/vast/mustafa/public-data/DynamicNuclearNet-tracking-v1_0/test/test_11.slp,217,55,47.991233348846436,1.1460426449182315
