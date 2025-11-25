@@ -1,23 +1,37 @@
 model,id,num_switches,idf1,mota,num_frames,num_switches_per_10k_frames
-No post-processing,Mice,18.0,0.6480773852439318,0.9997837058399424,40000,4.5
+No post-processing,Mice,18.0,0.6480773852439318,0.9997837058399424,42250,4.260355029585799
+No post-processing,Flies,0.0,1.0,1.0,2500,0.0
+No post-processing,Flies,0.0,1.0,1.0,2500,0.0
+No post-processing,Flies,0.0,1.0,1.0,1500,0.0
+No post-processing,Flies,0.0,1.0,1.0,1500,0.0
+No post-processing,Mice,0.0,1.0,1.0,2560,0.0
 No post-processing,Mice,0.0,1.0,1.0,18036,0.0
 No post-processing,Mice,0.0,1.0,1.0,18150,0.0
 No post-processing,Mice,10.0,0.6133613887427669,0.9994739610731194,9665,10.0
 No post-processing,Mice,40.0,0.9654521082135024,0.9975627589568608,9042,40.0
+No post-processing,Flies,0.0,1.0,1.0,2560,0.0
 No post-processing,Zebrafish,11.0,0.7958666666666666,0.9992666666666666,1500,11.0
-No post-processing,Zebrafish,14.0,0.9372,0.9990666666666668,1500,14.0
+No post-processing,Zebrafish,12.0,0.9362666666666668,0.9992,1500,12.0
 No post-processing,Zebrafish,30.0,0.9047333333333332,0.998,1500,30.0
-No post-processing,Zebrafish,34.0,0.6814,0.9977333333333334,1500,34.0
+No post-processing,Zebrafish,32.0,0.6814,0.9978666666666668,1500,32.0
 No post-processing,Zebrafish,14.0,0.7580666666666667,0.9990666666666668,1500,14.0
 No post-processing,Zebrafish,26.0,0.6665999866639994,0.9982663199306528,1500,26.0
-Post-processing,Mice,20.0,0.9957582311944244,0.9997596731554914,40000,5.0
+Post-processing,Mice,0.0,1.0,1.0,42250,0.0
+Post-processing,Mice,0.0,1.0,1.0,42243,0.0
+Post-processing,Mice,20.0,0.9957582311944244,0.9997596731554914,42250,4.733727810650888
+Post-processing,Flies,0.0,1.0,1.0,2500,0.0
+Post-processing,Flies,0.0,1.0,1.0,2500,0.0
+Post-processing,Flies,0.0,1.0,1.0,1500,0.0
+Post-processing,Flies,0.0,1.0,1.0,1500,0.0
+Post-processing,Mice,0.0,1.0,1.0,2560,0.0
 Post-processing,Mice,0.0,1.0,1.0,18036,0.0
 Post-processing,Mice,0.0,1.0,1.0,18150,0.0
 Post-processing,Mice,10.0,0.971330878485008,0.9994739610731194,9665,10.0
 Post-processing,Mice,38.0,0.8293931269802584,0.9976846210090178,9042,38.0
+Post-processing,Flies,0.0,1.0,1.0,2560,0.0
 Post-processing,Zebrafish,0.0,1.0,1.0,1500,0.0
 Post-processing,Zebrafish,8.0,0.9385333333333332,0.9994666666666666,1500,8.0
 Post-processing,Zebrafish,6.0,0.9429333333333332,0.9996,1500,6.0
 Post-processing,Zebrafish,14.0,0.8227333333333333,0.9990666666666668,1500,14.0
 Post-processing,Zebrafish,14.0,0.7580666666666667,0.9990666666666668,1500,14.0
-Post-processing,Zebrafish,22.0,0.7923584716943388,0.9985330399413216,1500,22.0
+Post-processing,Zebrafish,20.0,0.7924251516970061,0.998666399946656,1500,20.0
